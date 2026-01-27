@@ -1,12 +1,12 @@
 <h2><a href="https://sites.google.com/saerom.hs.kr/main/홈">SAEROM-student.main</a></h2>
 <h2>Purpose</h2>
-<p></p>
+<p>학교에서 사용하는 크롬북을 더 편리하게 사용하기 위해 개발되었습니다.</p>
 
 <h2>Element</h2>
 <p>배너</p>
-<p>크롬북 관리</p>
+<p>크롬북 반납/반출 버튼</p>
 <p>검색창</p>
-<p>사이드</p>
-<p>앱 런처</p>
+<p>부가 기능</p>
+<p>웹 런처</p>
 <p>gmail 알림</p>
 <p>수행평가 알림</p>
