@@ -12,6 +12,7 @@
 <p>크롬북 관리</p>
 <p>학생들이 크롬북 반출시 반출 사유와 시각을 확인할 수 있도록 하는 크롬북 관리 시스템입니다.</p>
 <img src="explain_img/chromebook_management.png">
+<img src="explain_img/chromebook_management_click.png">
 
 <p>검색창</p>
 <p>크롬북에서 사용할 수 있는 웹 사이트를 검색하여 접속할 수 있도록 하는 검색 시스템입니다.</p>
