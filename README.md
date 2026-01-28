@@ -4,10 +4,24 @@
 
 <h2>Element</h2>
 <img src="img/overview.png">
-<p>배너<img src="img/banner.png"></p>
-<p>반출/반납<img src="img/export:return.png"></p>
-<p>검색창<img src="img/searchbox.png"></p>
-<p>부가 기능<img src="img/banner.png"></p>
-<p>웹 런처<img src="img/banner.png"></p>
-<p>gmail 알림<img src="img/banner.png"></p>
-<p>수행평가 알림<img src="img/banner.png"></p>
+
+<p>배너</p>
+<img src="img/banner.png">
+
+<p>반출/반납</p>
+<img src="img/export:return.png">
+
+<p>검색창</p>
+<img src="img/searchbox.png">
+
+<p>부가 기능</p>
+<img src="img/additionalfeature.png">
+
+<p>웹 런처</p>
+<img src="img/weblauncher.png">
+
+<p>gmail 알림</p>
+<img src="img/gmailalert.png">
+
+<p>수행평가 알림</p>
+<img src="img/testalert.png">
