@@ -13,8 +13,8 @@
     <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
     <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
     <br>
-    <img src="explain_img/My_Tools/Google_Sites.jpeg" height="12px;">Google Sites
-    <img src="explain_img/My_Tools/Google_Sheets.jpeg" height="12px;">Google Sheets
+    <img src="explain_img/My_Tool/Google_Sites.jpeg" height="12px;">Google Sites
+    <img src="explain_img/My_Tool/Google_Sheets.jpeg" height="12px;">Google Sheets
 </P>
 
 <h3>크롬북 관리</h3>
@@ -26,8 +26,8 @@
     <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
     <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
     <br>
-    <img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
-    <img src="explain_img/My_Tools/Google_Sheets.jpeg" height="12px;">Google Sheets
+    <img src="explain_img/My_Tool/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
+    <img src="explain_img/My_Tool/Google_Sheets.jpeg" height="12px;">Google Sheets
 </P>
 
 <h3>검색창</h3>
@@ -38,7 +38,7 @@
     <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
     <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
     <br>
-    <img src="explain_img/My_Tools/Google_Sites.jpeg" height="12px;">Google Sites
+    <img src="explain_img/My_Tool/Google_Sites.jpeg" height="12px;">Google Sites
 </P>
 
 <h3>부가 기능</h3>
@@ -49,9 +49,9 @@
     <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
     <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
     <br>
-    <img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
-    <img src="explain_img/My_Tools/Google_Sites.jpeg" height="12px;">Google Sites
-    <img src="explain_img/My_Tools/Google_Sheets.jpeg" height="12px;">Google Sheets
+    <img src="explain_img/My_Tool/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
+    <img src="explain_img/My_Tool/Google_Sites.jpeg" height="12px;">Google Sites
+    <img src="explain_img/My_Tool/Google_Sheets.jpeg" height="12px;">Google Sheets
 </P>
 
 <h3>웹 런처</h3>
@@ -61,7 +61,7 @@
     <img src="explain_img/My_Tech/HTML.jpeg" height="12px;">HTML
     <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
     <br>
-    <img src="explain_img/My_Tools/Google_Sites.jpeg" height="12px;">Google Sites
+    <img src="explain_img/My_Tool/Google_Sites.jpeg" height="12px;">Google Sites
 </P>
 
 <h3>gmail 알림</h3>
@@ -72,7 +72,7 @@
     <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
     <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
     <br>
-    <img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
+    <img src="explain_img/My_Tool/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
 </P>
 
 <h3>수행평가 알림</h3>
@@ -83,5 +83,5 @@
     <img src="explain_img/My_Tech/CSS.jpeg" height="12px;">CSS
     <img src="explain_img/My_Tech/JavaScript.jpeg" height="12px;">JavaScript
     <br>
-    <img src="explain_img/My_Tools/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
+    <img src="explain_img/My_Tool/Google_Apps_Script.jpeg" height="12px;">Google Apps Script
 </P>
